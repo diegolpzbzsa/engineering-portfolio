@@ -50,6 +50,18 @@ The project involved moving from initial design decisions into physical testing,
 
 
 
+\## Additional Project
+
+
+
+\### \[IBM AI Strategy and Financial Analysis](business-analytics/)
+
+
+
+Business and financial analysis of IBM's AI strategy using financial ratios, a Lewin force-field analysis, and a cross-SWOT framework.
+
+
+
 \## Technical Skills
 
 
