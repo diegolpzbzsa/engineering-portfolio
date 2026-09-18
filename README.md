@@ -14,7 +14,7 @@ I enjoy working on problems where physics and mathematical models have to be con
 
 
 
-\### Physics Extended Essay — Energy Transfer in a Drum
+\### \[Physics Extended Essay — Energy Transfer in a Drum](physics-extended-essay/)
 
 
 
