@@ -46,3 +46,15 @@ Because of this, I had to understand what each part of the model represented phy
 
 This way of thinking is one of the reasons I became increasingly interested in experimental engineering and control systems.
 
+
+
+\## Full Report
+
+
+
+The original IB Physics Extended Essay was written in Spanish.
+
+
+
+\[View the full report](Physics\_Extended\_Essay\_Public.pdf)
+
