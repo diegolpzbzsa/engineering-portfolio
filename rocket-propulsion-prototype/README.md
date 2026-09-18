@@ -38,9 +38,6 @@ This required thinking about how the different components interacted as a system
 
 
 
-<!-- Add design/CAD image here later -->
-
-
 
 \## Testing and Iteration
 
@@ -52,9 +49,6 @@ Physical testing was one of the most important parts of the project.
 
 The first design did not simply behave exactly as expected. Testing exposed limitations that required us to analyze the results, reconsider parts of the design, and make changes before testing again.
 
-
-
-<!-- Add testing image here later -->
 
 
 
