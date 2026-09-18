@@ -120,6 +120,18 @@ At the highest measured tension, the calculated energy-transfer efficiency was a
 
 
 
+\## Limitations
+
+
+
+The experiment also had several limitations. The liquid mixture separated over time, which made the vibration patterns harder to observe consistently, and the container placed on the membrane may have affected the vibration itself.
+
+
+
+The energy model also required assumptions about losses and dissipation that could not be measured directly. With better equipment, I would measure membrane tension directly and use a less intrusive method to measure vibration amplitude.
+
+
+
 \## What I Learned
 
 
@@ -145,4 +157,8 @@ The original IB Physics Extended Essay was written in Spanish.
 
 
 \[View the full report](Physics\_Extended\_Essay\_Public.pdf)
+
+
+
+\[← Back to Engineering Portfolio](../)
 
