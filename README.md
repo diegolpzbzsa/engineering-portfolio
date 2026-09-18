@@ -38,7 +38,7 @@ My current work involves developing my understanding of rigid-body dynamics, att
 
 
 
-\### Experimental Rocket Propulsion
+\### \[Experimental Rocket Propulsion Prototype](rocket-propulsion-prototype/)
 
 
 

@@ -106,8 +106,7 @@ The resulting model predicts a sinusoidal wave with constant amplitude, and the 
 
 
 
-<!-- Add constant-radius result image here -->
-
+![Pressure-wave model](images/pressure-wave-model.png)
 
 
 \## Linear-Radius Model
@@ -122,11 +121,11 @@ The numerical solution predicted an increasing wave amplitude as the radius incr
 
 
 
-<!-- Add linear-profile image here -->
+![Linear trumpet profile](images/linear-trumpet-profile.png)
 
 
 
-<!-- Add linear numerical-result image here -->
+![Linear-radius numerical solution](images/linear-radius-solution.png)
 
 
 
@@ -142,8 +141,7 @@ The model predicted much stronger amplitude growth, particularly as the wave ent
 
 
 
-<!-- Add exponential result image here -->
-
+![Exponential-radius numerical solution](images/exponential-radius-result.png)
 
 
 \## Comparison
